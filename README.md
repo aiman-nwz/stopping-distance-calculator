@@ -30,7 +30,7 @@ These are simplified, illustrative values (flat road, constant deceleration, no 
 Requires Python 3.
  
 ```bash
-python Stopping_distance_Calculator.py
+python stopping_distance_calculator.py
 ```
  
 ### Example 1: safe
@@ -63,7 +63,7 @@ The vehicle will exceed the available space by 49.04 meters.
  
 ## Project structure
  
-- `Stopping_distance_Calculator.py`: the script (input, calculation and safety assessment in one file)
+- `stopping_distance_calculator.py`: the script (input, calculation and safety assessment in one file)
 - `README.md`: this file
 ## Known limitations
  
